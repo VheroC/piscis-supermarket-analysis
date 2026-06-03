@@ -99,9 +99,9 @@ All views are in the `/sql` folder. Each view corresponds to one dashboard metri
 
 ## Dashboard
 
-> 🔗 [View live dashboard in Looker Studio](#) ← *replace with your actual link*
+> 🔗 [View live dashboard in Looker Studio](https://datastudio.google.com/reporting/ed8569a2-e6d6-4a5d-bc64-9e7e2e970ea6)
 
-![Dashboard preview](dashboard/screenshots/dashboard_preview.png)
+![Dashboard preview](piscis_supermarket_dashboard.jpg)
 
 ---
 
