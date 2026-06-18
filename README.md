@@ -131,4 +131,4 @@ All views are in the `/sql` folder. Each view corresponds to one dashboard metri
 **Veronica Canzani**  
 Data Analyst | Google Sheets · BigQuery · SQL · Looker Studio · Power BI · Excel · Claude AI  
 
-🔗 https://linkedin.com/in/veronica-canzani · 🐙 (https://github.com/vheroc/piscis-supermarket-analysis)
+🔗 https://linkedin.com/in/veronica-canzani · 🐙 https://github.com/VheroC
